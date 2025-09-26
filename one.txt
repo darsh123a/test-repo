@@ -1,4 +1,4 @@
 this is the first file
 add another text to check  
 third commit
-b made changes
+I am B and B made changes
